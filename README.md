@@ -1,11 +1,13 @@
-## Hello there 👋
+# Hello, folks! <img src="https://github.com/user-attachments/assets/c18a41cb-80d6-447e-a1f1-5f97169773fd" width="30px" height="30px" />
+
 
 My name is Neftali Hernandez and I'm an undergradute Electrical & Computer Engineering student at the University of Southern California!
 
-- 🔭 I’m currently studying Computer Networks, Linear Ciruits & Digital Circuit Design
-- ⚡ Fun fact: Went snorkling with Sharks in Catalina Island before I knew how to swim
+- ⚡ I’m currently studying Digital Circuit Design, Computer Networks & Linear Circuits 
 
-![USCgif3](https://github.com/user-attachments/assets/f509f9c5-c651-4114-a799-80f05636037d)
+- 😄 Fun fact: Went snorkling with Sharks in Catalina Island before I knew how to swim
+
+<img src="https://github.com/user-attachments/assets/f509f9c5-c651-4114-a799-80f05636037d" width="85px" height="115" /> FIGHT ON! ✌️
 
 
 
