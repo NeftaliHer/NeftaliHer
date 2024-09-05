@@ -3,11 +3,16 @@
 
 My name is Neftali Hernandez and I'm an undergradute Electrical & Computer Engineering student at the University of Southern California!
 
-- ⚡ I’m currently studying Digital Circuit Design, Computer Networks & Linear Circuits 
+- 🌱 I’m currently learning about Digital Circuit Design, Computer Networks & Linear Circuits
+- 🔭 I’m currently working on attaing an internship in Hardware Design
+- 🤔 Fun fact: Went snorkling with Sharks in Catalina Island before I knew how to swim
+- 💬 Ask me about my previous work and college experience
 
-- 😄 Fun fact: Went snorkling with Sharks in Catalina Island before I knew how to swim
 
-<img src="https://github.com/user-attachments/assets/f509f9c5-c651-4114-a799-80f05636037d" width="85px" height="115" /> FIGHT ON! ✌️
+
+FIGHT ON! ✌️
+
+<img src="https://github.com/user-attachments/assets/f509f9c5-c651-4114-a799-80f05636037d" width="85px" height="115" />
 
 
 
